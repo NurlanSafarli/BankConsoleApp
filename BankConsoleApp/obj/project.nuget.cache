@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZzxuHOSFUkyjr3cUkhpv5W42L+YGQlDw9ktMVKtNI/aKy29o13n/f8DDrGQLi0o3fH1OrzFCi0Hj00LgmY1kug==",
+  "dgSpecHash": "rXHKgv4DHeS0zrcydxkoYyvoq+IpZArbvvGVtnxG6sNWsP9JLKKB/bcqGK3amhOK50Z/aBR8TW6LuylVwWIV3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\nurla\\OneDrive\\Desktop\\AB202 task\\BankConsoleApp\\BankConsoleApp\\BankConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nurla\\.nuget\\packages\\microsoft.identity.client\\4.57.0\\microsoft.identity.client.4.57.0.nupkg.sha512",
+    "C:\\Users\\nurla\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+  ],
   "logs": []
 }

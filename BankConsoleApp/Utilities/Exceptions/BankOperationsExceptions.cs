@@ -10,7 +10,7 @@ namespace BankConsoleApp.Utilities.Exceptions
     {
         public class InsufficientFundsException : Exception
         {
-            public InsufficientFundsException() : base("Əziz istifadəçi, hesabınızdakı balans çıxış etmək istədiyiniz məbləğdən kiçikdir.") { }
+            public InsufficientFundsException() : base("Eziz istifadeçi, hesabınızdakı balans çıxış etmek istediyiniz mebleğden kiçikdir.") { }
         }
         public class AccountNotFoundException : Exception
         {
@@ -18,7 +18,7 @@ namespace BankConsoleApp.Utilities.Exceptions
         }
         public class InvalidAmountException : Exception
         {
-            public InvalidAmountException() : base("Daxil etdiyiniz məbləğ sıfırdan kiçik və ya mənasızdır.") { }
+            public InvalidAmountException() : base("Daxil etdiyiniz mebleğ sıfırdan kiçik ve ya menasızdır.") { }
         }
 
 
